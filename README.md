@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a physics engineer with an emphasis on the theoretical and computational branch! Throughout my undergraduate and graduate years I developed a huge interest in multiscale modeling and simulation. My research interests rely on the study of magnetocaloric properties of ceramic and metal alloys for energy applications. 
+
+You can find more about me at [miguelangelooscardoso.github.io].
+
+
 <!--
 **miguelangelooscardoso/miguelangelooscardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
