@@ -6,8 +6,8 @@
 🔭 I’m a physics engineering with minor theoretical and computational physics.<br>👯 I’m looking to collaborate on projects where I can put my knowledge to the test.<br>🤝 I’m looking forward to develop my programming skills.<br>🌱 I’m currently learning Advanced Business Application Programming.<br>💬 I'm try to focus a lot on the positive side of things.<br>⚡ In my spare times I enjoy the quietness of the beach.<br><br>You can find more about me at [miguelangelooscardoso.github.io](miguelangelooscardoso.github.io)!
 
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelangelooscardoso) 
+<!--- ### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelangelooscardoso) -->
 
 ### 🧰 Languages and Tools
 
@@ -55,7 +55,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 ### 😂 Random Dev Meme
