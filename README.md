@@ -3,7 +3,7 @@
  **miguelangelooscardoso/miguelangelooscardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### 💫 About Me:
-🔭 I’m a physics engineer with a minor in theoretical and computational physics.<br>👯 I’m looking to collaborate on projects where I can put my knowledge to the test.<br>🤝 I’m developing my programming skills step by step.<br>🌱 I’m currently learning Advanced Business Application Programming.<br>💬 I'm try to focus a lot on the positive side of things.<br>⚡ In my spare time I enjoy the quietness of the beach.<br><br>You can find more about me at [miguelangelooscardoso.github.io](https://miguelangelooscardoso.github.io)!
+🔭 I am a physics engineer with a minor in theoretical and computational physics.<br>👯 I am seeking collaboration on projects that allow me to apply my knowledge.<br>🤝 I am gradually developing my programming skills.<br>🌱 I am currently learning Advanced Business Application Programming.<br>💬 I try to focus on the positive aspects of things.<br>⚡ In my spare time, I enjoy the tranquility of the beach.<br><br>You can find more about me at [miguelangelooscardoso.github.io](https://miguelangelooscardoso.github.io)!
 
 <!--- ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelangelooscardoso) -->
