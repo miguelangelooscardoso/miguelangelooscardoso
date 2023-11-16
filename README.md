@@ -28,9 +28,11 @@ More about me at [miguelangelooscardoso.github.io](https://miguelangelooscardoso
 <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
+
+```
 ### ✍️ Inspiration
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+```
