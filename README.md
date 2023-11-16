@@ -29,6 +29,7 @@ More about me at [miguelangelooscardoso.github.io](https://miguelangelooscardoso
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 <br>
+<br>
 
 ### ✍️ Inspiration
 
