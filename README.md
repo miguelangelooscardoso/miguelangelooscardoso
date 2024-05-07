@@ -2,7 +2,7 @@
 - 🔭 Physics engineer with a minor in theoretical and computational physics.
 - 👯 Seeking collaboration on projects to apply knowledge.
 - 🤝 Gradually developing programming skills.
-- 🌱 Currently learning Advanced Business Application Programming.
+- 🌱 Currently improving my skills on C/C++.
 - 💬 Focusing on the positive aspects of things.
 - ⚡ In spare time, enjoy the tranquility of the beach.
 
