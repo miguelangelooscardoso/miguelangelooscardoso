@@ -30,7 +30,7 @@ More about me at [miguelangelooscardoso.github.io](https://miguelangelooscardoso
 
 <br>
 
-### ✍️ Inspiration
+### :writing_hand: Inspiration
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
