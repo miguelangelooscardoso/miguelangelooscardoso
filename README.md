@@ -34,5 +34,5 @@ More about me at [miguelangelooscardoso.github.io](https://miguelangelooscardoso
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
-<img src='https://randomeme.vercel.app/' style="height: 400px;"/>
+<img src='https://codermemes.vercel.app/' style="height: 400px;"/>
 
