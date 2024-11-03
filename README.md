@@ -1,14 +1,14 @@
 ### 💫 About Me:
 - 🔭 I’m a physics engineer with a minor in theoretical and computational physics.
-- 👯 I’m looking to collaborate on embedded systems projects.
-- 🤝 I’m eager to learn as much as possible about digital systems, computer architecture, and RTOS.
-- 🌱 Currently, I’m developing my skills in C/C++ programming.
-- 💬 I hope to start working with microcontrollers soon.
-- ⚡ My professional ambitions are strongly linked by my beliefs.
+- 🤝 I’m looking to collaborate on embedded systems projects.
+- 💡 I’m eager to learn as much as possible about digital systems, computer architecture, and RTOS.
+- 🚀 Currently, I’m developing my skills in C/C++ programming.
+- ⚙️  I hope to start working with microcontrollers soon.
+- 🎯 My professional ambitions are deeply linked to my beliefs.
 
 More about me at [miguelangelooscardoso.github.io](https://miguelangelooscardoso.github.io)!
 
-### 🧰 Languages and Tools
+### 🛠️ Languages and Tools
 
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -35,7 +35,7 @@ More about me at [miguelangelooscardoso.github.io](https://miguelangelooscardoso
 
 <br>
  
-### :writing_hand: Inspiration
+### 🌈
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
