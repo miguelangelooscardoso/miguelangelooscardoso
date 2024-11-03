@@ -14,7 +14,7 @@ More about me at [miguelangelooscardoso.github.io](https://miguelangelooscardoso
 <img align="left" alt="Git" width="30px" style="background-color: white; border-radius: 50%; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/color/48/000000/github.png" style="background-color: white; border-radius: 50%; padding: 5px;" />
 <img align="left" alt="Matlab" width="30px" style="background-color: white; border-radius: 50%; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img align="left" alt="Bash" width="30px" style="background-color: white; border-radius: 50%; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" src="https://img.icons8.com/color/48/000000/bash.png" style="background-color: white; border-radius: 50%; padding: 5px;" />
 <img align="left" alt="Python" width="30px" style="background-color: white; border-radius: 50%; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="background-color: white; border-radius: 50%; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="background-color: white; border-radius: 50%; padding: 5px;" />
