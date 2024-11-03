@@ -1,10 +1,10 @@
 ### 💫 About Me:
-- 🔭 Physics engineer with a minor in theoretical and computational physics.
-- 👯 Seeking collaboration on projects to apply knowledge.
-- 🤝 Gradually developing programming skills.
-- 🌱 Currently improving my skills on C/C++.
-- 💬 Focusing on the positive aspects of things.
-- ⚡ In spare time, enjoy the tranquility of the beach.
+- 🔭 I’m a physics engineer with a minor in theoretical and computational physics.
+- 👯 I’m looking to collaborate on embedded systems projects.
+- 🤝 I’m eager to learn as much as possible about digital systems, computer architecture, and RTOS.
+- 🌱 Currently, I’m developing my skills in C/C++ programming.
+- 💬 I hope to start working with microcontrollers soon.
+- ⚡ My professional ambitions are strongly linked by my beliefs.
 
 More about me at [miguelangelooscardoso.github.io](https://miguelangelooscardoso.github.io)!
 
@@ -18,6 +18,9 @@ More about me at [miguelangelooscardoso.github.io](https://miguelangelooscardoso
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+
+<!--
+
 <img align="left" alt="MSSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align="left" alt="VisualStudio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt=".NET" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -28,11 +31,17 @@ More about me at [miguelangelooscardoso.github.io](https://miguelangelooscardoso
 <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
+-->
+
 <br>
  
 ### :writing_hand: Inspiration
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
+
+<!--
+
 <img src='https://randomeme.vercel.app/' style="height: 400px;"/>
 
+-->
