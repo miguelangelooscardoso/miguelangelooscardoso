@@ -18,6 +18,8 @@ More about me at [miguelangelooscardoso.github.io](https://miguelangelooscardoso
 <img align="left" alt="Python" width="30px" style="background-color: white; border-radius: 50%; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="background-color: white; border-radius: 50%; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="background-color: white; border-radius: 50%; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="C++" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="background-color: white; border-radius: 50%; padding: 5px;" />
+
 
 
 <!--
