@@ -1,10 +1,11 @@
 ### 💫 About Me:
 - 🔭 I’m a physics engineer with a minor in theoretical and computational physics.
-- 🤝 I’m looking to collaborate on embedded systems projects.
-- 💡 I’m eager to learn as much as possible about digital systems, computer architecture, and RTOS.
-- 🚀 Currently, I’m developing my skills in C/C++ programming.
-- ⚙️  I hope to start working with microcontrollers soon.
-- 🎯 My professional ambitions are deeply linked to my beliefs.
+- 🤝 Experienced in developing firmware for STM32 and ESP32 microcontrollers, integrating sensors and peripherals, and implementing closed-loop control systems.
+- 💡 Skilled in building reliable embedded systems, combining hardware knowledge, C/C++ programming, and real-time operating systems (RTOS) to deliver efficient and robust solutions.
+- 🚀 Hands-on experience in simulation, control, and visualization of microcontroller-based platforms, including data streaming via MQTT and dashboard interfaces.
+- ⚙️ Proficient with STM32 and ESP32 ecosystems, TouchGFX, MicroPython, and version control (Git), with a pragmatic approach to firmware design, debugging, and optimization.
+- 🎯 Independent and proactive engineer, attentive to accuracy and quality, able to document product software specifications and technical details while contributing effectively in collaborative, multidisciplinary teams.
+
 
 More about me at [miguelangelooscardoso.github.io](https://miguelangelooscardoso.github.io)!
 
